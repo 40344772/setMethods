@@ -1,0 +1,1 @@
+I am considered a member of the press
