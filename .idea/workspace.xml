@@ -23,6 +23,11 @@
         <option value="Robert Ewing &lt;40344772@live.napier.ac.uk&gt;" />
       </list>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -106,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580078186814</updated>
-      <workItem from="1580078188213" duration="1442000" />
+      <workItem from="1580078188213" duration="1996000" />
     </task>
     <task id="LOCAL-00001" summary="First commit, adding initial files.">
       <created>1580078880548</created>
@@ -129,7 +134,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580079663537</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="First commit, adding initial files.">
+      <created>1580079868606</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580079868606</updated>
+    </task>
+    <task id="LOCAL-00005" summary="First commit, adding initial files.">
+      <created>1580080045319</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580080045319</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,10 +159,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="First commit, adding initial files." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="303" y="25" key="CommitChangelistDialog2" timestamp="1580079868468">
+    <state x="303" y="25" key="CommitChangelistDialog2" timestamp="1580080045164">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="303" y="25" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1580079868468" />
+    <state x="303" y="25" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1580080045164" />
     <state width="1358" height="192" key="GridCell.Tab.0.bottom" timestamp="1580079297149">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -164,10 +183,10 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="221" y="62" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1580079321133" />
-    <state x="320" y="163" key="Vcs.Push.Dialog.v2" timestamp="1580079874989">
+    <state x="320" y="163" key="Vcs.Push.Dialog.v2" timestamp="1580080297755">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="320" y="163" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1580079874988" />
+    <state x="320" y="163" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1580080297755" />
     <state x="471" y="221" key="git4idea.merge.GitPullDialog" timestamp="1580078670529">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
