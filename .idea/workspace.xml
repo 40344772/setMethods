@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="525e06f4-7078-4ba1-b4bf-b8c4d02481c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +44,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="Docker" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Docker.Dockerfile">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.napier.sem.App" />
       <module name="setMethods" />
@@ -58,8 +60,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Docker.Dockerfile" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
@@ -69,7 +80,17 @@
       <list>
         <serviceView>
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="Containers" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -86,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580078186814</updated>
-      <workItem from="1580078188213" duration="920000" />
+      <workItem from="1580078188213" duration="1332000" />
     </task>
     <task id="LOCAL-00001" summary="First commit, adding initial files.">
       <created>1580078880548</created>
@@ -95,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580078880548</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First commit, adding initial files.">
+      <created>1580079186280</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580079186280</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,14 +134,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="First commit, adding initial files." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="303" y="25" key="CommitChangelistDialog2" timestamp="1580078880398">
+    <state x="303" y="25" key="CommitChangelistDialog2" timestamp="1580079186081">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="303" y="25" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1580078880398" />
-    <state x="320" y="163" key="Vcs.Push.Dialog.v2" timestamp="1580078919865">
+    <state x="303" y="25" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1580079186081" />
+    <state width="1358" height="192" key="GridCell.Tab.0.bottom" timestamp="1580079297149">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="320" y="163" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1580078919865" />
+    <state width="1358" height="192" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1580079297149" />
+    <state width="1358" height="192" key="GridCell.Tab.0.center" timestamp="1580079297149">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="192" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1580079297149" />
+    <state width="1358" height="192" key="GridCell.Tab.0.left" timestamp="1580079297148">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="192" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1580079297148" />
+    <state width="1358" height="192" key="GridCell.Tab.0.right" timestamp="1580079297149">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="192" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1580079297149" />
+    <state x="221" y="62" key="SettingsEditor" timestamp="1580079321133">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="221" y="62" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1580079321133" />
+    <state x="320" y="163" key="Vcs.Push.Dialog.v2" timestamp="1580079211498">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="320" y="163" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1580079211498" />
     <state x="471" y="221" key="git4idea.merge.GitPullDialog" timestamp="1580078670529">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
