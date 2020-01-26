@@ -2,19 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="525e06f4-7078-4ba1-b4bf-b8c4d02481c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -43,6 +44,26 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.napier.sem.App" />
+      <module name="setMethods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.napier.sem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -65,21 +86,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580078186814</updated>
-      <workItem from="1580078188213" duration="522000" />
+      <workItem from="1580078188213" duration="920000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit, adding initial files.">
+      <created>1580078880548</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580078880548</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit, adding initial files." />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit, adding initial files." />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="303" y="25" key="CommitChangelistDialog2" timestamp="1580078814108">
+    <state x="303" y="25" key="CommitChangelistDialog2" timestamp="1580078880398">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="303" y="25" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1580078814108" />
+    <state x="303" y="25" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1580078880398" />
+    <state x="320" y="163" key="Vcs.Push.Dialog.v2" timestamp="1580078919865">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="320" y="163" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1580078919865" />
     <state x="471" y="221" key="git4idea.merge.GitPullDialog" timestamp="1580078670529">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="471" y="221" key="git4idea.merge.GitPullDialog/0.23.1440.797@0.23.1440.797" timestamp="1580078670529" />
+    <state x="97" y="120" key="new project wizard" timestamp="1580078970026">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="97" y="120" key="new project wizard/0.23.1440.797@0.23.1440.797" timestamp="1580078970026" />
   </component>
 </project>
