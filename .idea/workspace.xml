@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="525e06f4-7078-4ba1-b4bf-b8c4d02481c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/test_db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +28,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,7 +53,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="Docker" />
   </component>
-  <component name="RunManager" selected="Docker.Dockerfile">
+  <component name="RunManager" selected="Docker.db/Dockerfile">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.napier.sem.App" />
       <module name="setMethods" />
@@ -72,8 +75,19 @@
       </deployment>
       <method v="2" />
     </configuration>
+    <configuration name="db/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="db/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Docker.db/Dockerfile" />
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="Application.App" />
         <item itemvalue="Docker.Dockerfile" />
         <item itemvalue="Application.App" />
       </list>
@@ -92,7 +106,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
-                <item name="Containers" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="Images" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
             </expand>
             <select />
@@ -112,6 +126,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580078186814</updated>
       <workItem from="1580078188213" duration="1996000" />
+      <workItem from="1580737842622" duration="88000" />
     </task>
     <task id="LOCAL-00001" summary="First commit, adding initial files.">
       <created>1580078880548</created>
@@ -159,6 +174,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="First commit, adding initial files." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="319" y="87" key="#Pull_Image" timestamp="1580737886242">
+      <screen x="0" y="23" width="1440" height="790" />
+    </state>
+    <state x="319" y="87" key="#Pull_Image/0.23.1440.790@0.23.1440.790" timestamp="1580737886242" />
+    <state x="426" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580737553330">
+      <screen x="0" y="23" width="1440" height="790" />
+    </state>
+    <state x="426" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.790@0.23.1440.790" timestamp="1580737553330" />
     <state x="303" y="25" key="CommitChangelistDialog2" timestamp="1580080045164">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
